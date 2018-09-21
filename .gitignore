@@ -1,0 +1,7 @@
+*.img
+*.o
+readimage
+ext2_*
+*.swp
+*.bkup
+
